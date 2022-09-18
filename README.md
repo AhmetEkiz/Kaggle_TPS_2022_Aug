@@ -1,6 +1,5 @@
 # Kaggle_TPS_2022_Aug
 Tabular Playground Series - Aug 2022
-This is my solutions for 
 
 [Competition Home Page](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022)
 
@@ -8,3 +7,6 @@ This is my solutions for
 >The company has just completed a large testing study for different product prototypes. Can you use this data to build a model that predicts product failures?
 
 **Evaluation**: Submissions are evaluated on area under the ROC curve between the **predicted probability** and the observed target.
+
+1. [TPS Aug 2022 - Starter](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-starter.ipynb)
+1. [TPS Aug 2022 - Blending](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-blending.ipynb)
