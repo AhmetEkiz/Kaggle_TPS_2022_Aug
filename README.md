@@ -1,7 +1,7 @@
 # Kaggle_TPS_2022_Aug
 Tabular Playground Series - Aug 2022
 
-You can see my best private and public scores on the [My Submission Scores](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/edit/main/README.md#my-notebooks) title. **It's not a good score** but I have learned, that sometimes I **should use fewer features** to make good predictions **because** **adding missing columns** for every column that has a missing value **decreased the score**. And I have **tried the first XGBoost** then I used **Logistic Regression** which everyone used. **Logistic Regression was better than XGBoost for starting**. So, I learned to need to try different preprocess methods and models. 
+You can see my best private and public scores on the [My Submission Scores](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/main/README.md#my-notebooks) title. **It's not a good score** but I have learned, that sometimes I **should use fewer features** to make good predictions **because** **adding missing columns** for every column that has a missing value **decreased the score**. And I have **tried the first XGBoost** then I used **Logistic Regression** which everyone used. **Logistic Regression was better than XGBoost for starting**. So, I learned to need to try different preprocess methods and models. 
 
 [Competition Home Page](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022)
 
