@@ -17,8 +17,8 @@ You can see my best private and public scores on the [My Submission Scores](http
 1. [TPS Aug 2022 - Starter](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-starter.ipynb)
 1. [TPS Aug 2022 - Starter - Version 8](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-starter-version-8.ipynb) : This version is the best score of my **starter** notebooks.
 1. [TPS Aug 2022 - Blending](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-blending.ipynb)
-1. [TPS Aug 2022 - Blending - Version 4](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-blending-version-4.ipynb) : My Second Best Score Version
-1. [TPS Aug 2022 - Blending - Version 9](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-blending-version-9.ipynb) : My Best Score Version
+1. [TPS Aug 2022 - Blending - Version 4](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-blending-version-4.ipynb) : My Second Best Private Score Version
+1. [TPS Aug 2022 - Blending - Version 9](https://github.com/AhmetEkiz/Kaggle_TPS_2022_Aug/blob/main/tps-aug-2022-blending-version-9.ipynb) : My Best Private Score Version
 
 ## My Submission Scores
 
